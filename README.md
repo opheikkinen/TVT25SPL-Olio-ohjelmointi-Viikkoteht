@@ -1,2 +1,2 @@
 # TVT25SPL-Olio-ohjelmointi-Viikkoteht
-Olio-ohjelmointikurssin viikkotehtävät.
+Olio-ohjelmointikurssin viikkotehtävät. Muokkaustesti.
